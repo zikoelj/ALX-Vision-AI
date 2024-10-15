@@ -1,4 +1,4 @@
- Webstack Portfolio Project
+# Object Detection Web Application
 
 ## Description
 This project is a web application that detects objects in images using deep learning techniques. It is designed to allow users to upload images and identify objects within them using a trained YOLO model.
