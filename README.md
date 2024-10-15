@@ -41,23 +41,23 @@ After the dependencies are installed, you can start the Flask application:
 flask run
 ```
 You should see output indicating the application is running locally, e.g., Running on http://127.0.0.1:5000/. Open this link in your browser to access the web application.
-###Usage 
+### Usage 
 1) Open your web browser and navigate to http://127.0.0.1:5000/.
 2) Upload an image from your computer.
 3) The web application will detect objects in the image and display the results.
 
-###Challenges
+### Challenges
 Improve the detection model to handle more complex images.
 
-###Future Improvement
+### Future Improvement
 Optimize the front-end experience with additional interactivity using React.
 train my YOLO model more to properly deal with new datasets
 
-###Project Links
+### Project Links
 GitHub Repository: Webstack-Portfolio-Project
 Google Slides Presentation:
 
-###Author
+### Author
 Name: Zakariaa El Jabiry
 GitHub: zikoelj
 LinkedIn: https://www.linkedin.com/in/zakariaa-el-jabiry-b1a834270/
