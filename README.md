@@ -47,17 +47,17 @@ You should see output indicating the application is running locally, e.g., Runni
 3) The web application will detect objects in the image and display the results.
 
 ### Challenges
-Improve the detection model to handle more complex images.
+- Improve the detection model to handle more complex images.
 
 ### Future Improvement
-Optimize the front-end experience with additional interactivity using React.
-train my YOLO model more to properly deal with new datasets
+- Optimize the front-end experience with additional interactivity using React.
+- train my YOLO model more to properly deal with new datasets
 
 ### Project Links
-GitHub Repository: Webstack-Portfolio-Project
-Google Slides Presentation:
+- GitHub Repository: Webstack-Portfolio-Project
+- Google Slides Presentation:
 
 ### Author
-Name: Zakariaa El Jabiry
-GitHub: zikoelj
-LinkedIn: https://www.linkedin.com/in/zakariaa-el-jabiry-b1a834270/
+- Name: Zakariaa El Jabiry
+- GitHub: zikoelj
+- LinkedIn: https://www.linkedin.com/in/zakariaa-el-jabiry-b1a834270/
