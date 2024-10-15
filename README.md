@@ -18,8 +18,8 @@ This project is a web application that detects objects in images using deep lear
 ### Step 1: Clone the repository
 To get started, clone the repository to your local machine:
 ```bash
-git clone https://github.com/zikoelj/webstack-Portfolio-Project.git
-cd webstack-Portfolio-Project
+git clone https://github.com/zikoelj/ALX-Vision-AI.git
+cd ALX-Vision-AI
 ```
 
 ### Step 2: Set up a virtual environment
@@ -54,7 +54,7 @@ You should see output indicating the application is running locally, e.g., Runni
 - train my YOLO model more to properly deal with new datasets
 
 ### Project Links
-- GitHub Repository: https://github.com/zikoelj/webstack-Portfolio-Project
+- GitHub Repository: https://github.com/zikoelj/ALX-Vision-AI
 - Google Slides Presentation: https://docs.google.com/presentation/d/1OumbnvfpfBYimNHvsgpqI8Y7kO0Y_hV1Di2R3Onyzzw/edit?usp=sharing
 
 ### Author
