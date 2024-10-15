@@ -1,5 +1,63 @@
-# webstack-Portfolio-Project
-My project is a web application that detects objects in images using deep learning techniques.
-To use this web application, you need to install the necessary packages and dependencies. First, clone the repository and navigate into the project directory. It's recommended to create a virtual environment to manage dependencies. Once your virtual environment is set up, you can install the required packages by running pip install -r requirements.txt if a requirements.txt file is provided. This will ensure that all necessary libraries are installed for the application to function correctly. After the installation, you can start the application and access it through your web browser.
+ Webstack Portfolio Project
 
-link to my project : https://github.com/zikoelj/webstack-Portfolio-Project
+## Description
+This project is a web application that detects objects in images using deep learning techniques. It is designed to allow users to upload images and identify objects within them using a trained YOLO model.
+
+## Technologies Used
+- **Backend**: Flask (Python)
+- **Frontend**: HTML, CSS, JAVASCRIPT
+- **Deep Learning Model**: YOLO (You Only Look Once) for object detection
+- 
+## Features
+- Object detection using deep learning.
+- User-friendly interface for image upload and result visualization.
+- Flask-based API for handling backend requests.
+
+## Setup Instructions
+
+### Step 1: Clone the repository
+To get started, clone the repository to your local machine:
+```bash
+git clone https://github.com/zikoelj/webstack-Portfolio-Project.git
+cd webstack-Portfolio-Project
+```
+
+### Step 2: Set up a virtual environment
+It's recommended to create a virtual environment to manage dependencies:
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+### Step 3: Install dependencies
+Install the required packages using pip:
+```bash
+pip install -r requirements.txt
+```
+
+### Step 4: Run the application
+After the dependencies are installed, you can start the Flask application:
+```bash
+flask run
+```
+You should see output indicating the application is running locally, e.g., Running on http://127.0.0.1:5000/. Open this link in your browser to access the web application.
+###Usage 
+1) Open your web browser and navigate to http://127.0.0.1:5000/.
+2) Upload an image from your computer.
+3) The web application will detect objects in the image and display the results.
+
+###Challenges
+Improve the detection model to handle more complex images.
+
+###Future Improvement
+Optimize the front-end experience with additional interactivity using React.
+train my YOLO model more to properly deal with new datasets
+
+###Project Links
+GitHub Repository: Webstack-Portfolio-Project
+Google Slides Presentation:
+
+###Author
+Name: Zakariaa El Jabiry
+GitHub: zikoelj
+LinkedIn: https://www.linkedin.com/in/zakariaa-el-jabiry-b1a834270/
