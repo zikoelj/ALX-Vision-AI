@@ -1,8 +1,9 @@
-Flask
-numpy
-opencv-python
-ultralytics
-cvzone
-rembg
-Pillow
-moviepy
+
+Flask>=2.0.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+ultralytics>=8.0.0
+cvzone>=1.4.0
+rembg>=2.0.0
+Pillow>=8.0.0
+moviepy>=1.0.0
