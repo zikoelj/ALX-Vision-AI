@@ -54,8 +54,8 @@ You should see output indicating the application is running locally, e.g., Runni
 - train my YOLO model more to properly deal with new datasets
 
 ### Project Links
-- GitHub Repository: Webstack-Portfolio-Project
-- Google Slides Presentation:
+- GitHub Repository: https://github.com/zikoelj/webstack-Portfolio-Project
+- Google Slides Presentation: https://docs.google.com/presentation/d/1OumbnvfpfBYimNHvsgpqI8Y7kO0Y_hV1Di2R3Onyzzw/edit?usp=sharing
 
 ### Author
 - Name: Zakariaa El Jabiry
