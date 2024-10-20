@@ -59,5 +59,5 @@ You should see output indicating the application is running locally, e.g., Runni
 
 ### Author
 - Name: Zakariaa El Jabiry
-- GitHub: zikoelj
+- GitHub: https://github.com/zikoelj
 - LinkedIn: https://www.linkedin.com/in/zakariaa-el-jabiry-b1a834270/
