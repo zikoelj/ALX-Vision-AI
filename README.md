@@ -55,7 +55,8 @@ You should see output indicating the application is running locally, e.g., Runni
 
 ### Project Links
 - GitHub Repository: https://github.com/zikoelj/ALX-Vision-AI
-- Google Slides Presentation: https://docs.google.com/presentation/d/1OumbnvfpfBYimNHvsgpqI8Y7kO0Y_hV1Di2R3Onyzzw/edit?usp=sharing
+- Google Slides Presentation: https://docs.google.com/presentation/d/1TshQ6q_uZnNA3-eixhL8l529pOabdBYy/edit? 
+                               usp=sharing&ouid=103318707892112694742&rtpof=true&sd=true
 
 ### Author
 - Name: Zakariaa El Jabiry
